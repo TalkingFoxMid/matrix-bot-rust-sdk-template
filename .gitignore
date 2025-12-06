@@ -1,0 +1,23 @@
+# Rust
+/target/
+Cargo.lock
+flake.lock
+
+# Nix
+/result
+.direnv/
+
+# Database
+store.db
+store.db-shm
+store.db-wal
+
+# Session
+session.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
