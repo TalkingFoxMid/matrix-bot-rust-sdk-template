@@ -1,0 +1,10 @@
+target/
+.git/
+.github/
+*.db
+*.db-shm
+*.db-wal
+store.db
+README.md
+LICENSE
+.gitignore
